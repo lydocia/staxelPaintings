@@ -1,0 +1,35 @@
+{
+    "inHandRotation": {
+        "x": 0,
+        "y": 0,
+        "z": -1.5399999618530273
+    },
+    "code": "xable.paintings.canvas.staxel",
+    "inHandOffset": {
+        "x": -0.07,
+        "y": -0.08,
+        "z": 0.4
+    },
+    "isDockable": true,
+    "kind": "staxel.item.CraftItem",
+    "renderHeight": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "icon": "mods/Xable's Paintings/canvas/Staxel.qb",
+    "usageOffset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "inHand": "mods/Xable's Paintings/canvas/Staxel.qb",
+    "categories": ["canvas"],
+    "pricing": {
+        "buyable": false,
+        "catalogueUnlockedFromStart": true,
+        "sellPrice": 75,
+        "value": 500
+    },
+    "searchable": true
+}

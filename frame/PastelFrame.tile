@@ -1,0 +1,26 @@
+{
+    "dockDefinition": "xable.paintings.dock",
+    "__inherits": "mods/Xable's Paintings/configs/wallMount.config",
+    "code": "xable.paintings.frame.pastel",
+    "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+    "collectable": {
+        "secret": true,
+        "priority": 20,
+        "grouping": "staxel.collections.painting",
+        "points": 15
+    },
+    "categories": ["painting"],
+    "voxels": "mods/Xable's Paintings/frame/PastelFrame.qb",
+    "compound": {"size": {
+        "x": 2,
+        "y": 2,
+        "z": 1
+    }},
+    "searchable": true,
+    "pricing": {
+        "buyable": true,
+        "catalogueUnlockedFromStart": true,
+        "sellPrice": 250,
+        "value": 2500
+    }
+}

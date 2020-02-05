@@ -1,0 +1,44 @@
+{
+	"code" : "xable.paintings.dock",
+	"allowStacksForAllSites" : true,
+  "sites": [
+    {
+      "siteName": "wallmount",
+      "compact": false,
+      "location": {
+        "x": 0.0,
+        "z": 0,
+        "y": 0.1875,
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "dimensionOverride" : {
+	    "x" : 1.0,
+		"y" : 1.0,
+		"z" : 1.0
+	  },
+      "allowStacks" : false,
+      "DockOneAtATime" : true,
+    }
+  ],
+  "validDockables": [
+    {
+      "category": "canvas",
+      "offset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "placeSoundGroup": "staxel.sounds.place.Stone",
+      "effectTrigger": "staxel.effect.DockItem"
+    }
+  ]
+}

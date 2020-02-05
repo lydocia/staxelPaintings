@@ -1,0 +1,74 @@
+language.code=en-GB
+language=English
+
+xable.paintings.frame.brown.name=Brown Frame
+xable.paintings.frame.brown.description=A brown frame to put a painting in.
+
+xable.paintings.frame.minimalist.name=Minimalist Frame
+xable.paintings.frame.minimalist.description=A minimalist frame to put a painting in.
+
+xable.paintings.frame.museum.name=Museum Frame
+xable.paintings.frame.museum.description=The classic museum frame, ready to put a new painting in.
+
+xable.paintings.frame.pastel.name=Pastel Frame
+xable.paintings.frame.pastel.description=A pastel frame to put a painting in.
+
+xable.paintings.canvas.aliza.name=Aliza's Portrait
+xable.paintings.canvas.aliza.description=Aliza must have posed for this portrait when the travelling painter was in town.
+
+xable.paintings.canvas.cecile.name=Cecile's Portrait
+xable.paintings.canvas.cecile.description=Cecile must have posed for this portrait when the travelling painter was in town.
+
+xable.paintings.canvas.ciranha.name=Ciranha's Portrait
+xable.paintings.canvas.ciranha.description=Ciranha must have posed for this portrait when the travelling painter was in town.
+
+xable.paintings.canvas.emilia.name=Emilia's Portrait
+xable.paintings.canvas.emilia.description=Emilia must have posed for this portrait when the travelling painter was in town.
+
+xable.paintings.canvas.eris.name=Eris' Portrait
+xable.paintings.canvas.eris.description=Eris must have posed for this portrait when the travelling painter was in town.
+
+xable.paintings.canvas.jamie.name=Jamie's Portrait
+xable.paintings.canvas.jamie.description=Jamie must have posed for this portrait when the travelling painter was in town.
+
+xable.paintings.canvas.leif.name=Leif's Portrait
+xable.paintings.canvas.leif.description=Leif must have posed for this portrait when the travelling painter was in town.
+
+xable.paintings.canvas.max.name=Max' Portrait
+xable.paintings.canvas.max.description=Max must have posed for this portrait when the travelling painter was in town.
+
+xable.paintings.canvas.monalisa.name=Mona Lisa
+xable.paintings.canvas.monalisa.description=An authentic replica of Leonardo da Vinci's "Mona Lisa".
+
+xable.paintings.canvas.mondriaan.name=Mondriaan
+xable.paintings.canvas.mondriaan.description=An authentic replica of a Mondriaan, but it's impossible to tell which one.
+
+xable.paintings.canvas.pearlearring.name=Girl with a Pearl Earring
+xable.paintings.canvas.pearlearring.description=An authentic replica of Johannes Vermeer's "Meisje met de parel".
+
+xable.paintings.canvas.riah.name=Riah's Portrait
+xable.paintings.canvas.riah.description=Riah must have posed for this portrait when the travelling painter was in town.
+
+xable.paintings.canvas.robin.name=Robin's Portrait
+xable.paintings.canvas.robin.description=Robin must have posed for this portrait when the travelling painter was in town.
+
+xable.paintings.canvas.rosemary.name=Rosemary's Portrait
+xable.paintings.canvas.rosemary.description=Rosemary must have posed for this portrait when the travelling painter was in town.
+
+xable.paintings.canvas.rowan.name=Rowan's Portrait
+xable.paintings.canvas.rowan.description=Rowan must have posed for this portrait when the travelling painter was in town.
+
+xable.paintings.canvas.scream.name=The Scream
+xable.paintings.canvas.scream.description=An authentic replica of Edvard Munch's "The Scream".
+
+xable.paintings.canvas.starrynight.name=Starry Night
+xable.paintings.canvas.starrynight.description=An authentic replica of Vincent Van Gogh's "Starry Night".
+
+xable.paintings.canvas.staxel.name=Staxel
+xable.paintings.canvas.staxel.description=Someone must've painted this with our town in mind.
+
+xable.paintings.canvas.vorlen.name=Vorlen's Portrait
+xable.paintings.canvas.vorlen.description=Vorlen must have posed for this portrait when the travelling painter was in town.
+
+xable.paintings.canvas.wren.name=Wren's Portrait
+xable.paintings.canvas.wren.description=Wren must have posed for this portrait when the travelling painter was in town.
